@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+
+.header {
+  width: 100vw;
+  height: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#judul {
+  font-family: fantasy;
+  padding-left: 50px;
+  color: white;
+}
+
+.nav-link,
+.nav-link:hover {
+  color: white;
+}
+
+.kontener {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(161, 145, 145);
+}
+
+.konten {
+  text-align: center;
+  font-family: initial;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(161, 145, 145);
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+}
+
+.card {
+  border: none;
+  background: none;
+}
+
+.teks {
+  font-family: initial;
+}
